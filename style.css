@@ -1,0 +1,26 @@
+.flex-container {
+    display: flex;
+    border: 2px solid green;
+    height: 500px;
+}
+.flex-items {
+    display: flex;
+    border: 2px dashed purple;
+    width: 500px;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    align-self: center;
+}
+.seats {
+    border: 1px solid red;
+    font-size: 30px;
+    color: blue;
+    background-color: pink;
+    margin: 20px;
+    padding: 30px;
+    text-align: center;
+}
+.text {
+    height: 129.88px;
+}
